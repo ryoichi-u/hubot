@@ -1,6 +1,6 @@
 {
   "name": "personal-bot",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "private": true,
   "author": "ryoichi-u <nogami.ueno0515@gmail.com>",
   "description": "A simple helpful robot for your Company",
@@ -20,6 +20,7 @@
     "hubot-slack": "^4.4.0"
   },
   "engines": {
-    "node": "0.10.x"
+    "node": "0.10.x",
+    "npm": "5.5.1"
   }
 }
